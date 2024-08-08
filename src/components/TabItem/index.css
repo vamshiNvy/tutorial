@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.tab-item {
+  cursor: pointer;
+  padding: 10px 20px;
+  background-color: #ace0f9;
+  border-radius: 4px;
+  font-family: 'Bree Serif', serif;
+}
+
+.tab-item.active {
+  background-color: #2563eb;
+  color: #ffffff;
+}
